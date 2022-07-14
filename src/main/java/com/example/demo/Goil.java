@@ -7,5 +7,7 @@ public class Goil {
         System.out.println(
                 "ssdad"
         );
+
+        System.out.println("dassdasd");
     }
 }
