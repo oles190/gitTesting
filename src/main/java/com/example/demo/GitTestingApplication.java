@@ -10,6 +10,8 @@ public class GitTestingApplication {
 		SpringApplication.run(GitTestingApplication.class, args);
 		System.out.println("sd");
 		System.out.println("gid");
+
+		System.out.println("gol");
 	}
 
 }
